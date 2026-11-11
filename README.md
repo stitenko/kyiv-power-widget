@@ -2,7 +2,7 @@
 
 **Kyiv Power Widget** — безкоштовний віджет для iPhone, який відображає графік відключень електроенергії в Києві та фактичний стан світла за повідомленнями публічних Telegram-каналів СвітлоБота.
 
-![Kyiv Power Widget на головному екрані iPhone](assets/step-7-finished.jpeg)
+<img src="assets/main-widget.jpg" alt="Kyiv Power Widget на головному екрані iPhone" width="250">
 
 ## Що показує віджет
 
@@ -19,7 +19,7 @@
 
 Завантажте [Scriptable з App Store](https://apps.apple.com/app/scriptable/id1405459188). Відкрийте додаток і натисніть синю кнопку **+** у верхньому правому куті.
 
-![Створення нового скрипта в Scriptable](assets/step-1-scriptable.png)
+<img src="assets/step-1-scriptable.png" alt="Створення нового скрипта в Scriptable" width="250">
 
 ### 2. Скопіюйте та вставте код
 
@@ -27,13 +27,13 @@
 2. Натисніть **Raw** (або скористайтеся меню копіювання файлу) і скопіюйте весь код.
 3. Поверніться в Scriptable, вставте код у новий скрипт і натисніть **Done**.
 
-![Код у редакторі Scriptable](assets/step-2-paste-code.jpeg)
+<img src="assets/step-2-paste-code.jpeg" alt="Код у редакторі Scriptable" width="250">
 
 ### 3. Перейменуйте скрипт
 
 Новий скрипт спочатку називається `Untitled Script`. На його картці натисніть **••• → Rename**, введіть **`KyivPowerWidget`** і підтвердьте перейменування.
 
-![Перейменування скрипта](assets/step-3-rename.png)
+<img src="assets/step-3-rename.png" alt="Перейменування скрипта" width="250">
 
 ### 4. Додайте віджет на головний екран
 
@@ -41,13 +41,13 @@
 2. Натисніть **+ → Додати віджет** (назви пунктів можуть трохи відрізнятися залежно від iOS).
 3. Знайдіть **Scriptable**, оберіть **Medium** (широкий) або **Small** (квадратний) і натисніть **Додати віджет**.
 
-![Додавання віджета Scriptable](assets/step-4-add-widget.jpeg)
+<img src="assets/step-4-add-widget.jpeg" alt="Додавання віджета Scriptable" width="250">
 
 ### 5. Відкрийте налаштування віджета
 
 Спочатку на ньому може бути написано `Configure widget to select the script to run.` — це нормально. Затисніть віджет і виберіть **Редагувати віджет**.
 
-![Редагування віджета](assets/step-5-edit-widget.jpeg)
+<img src="assets/step-5-edit-widget.jpeg" alt="Редагування віджета" width="250">
 
 ### 6. Виберіть скрипт і введіть Parameter
 
@@ -71,13 +71,13 @@
 
 Де `18.1` — черга відключень, `Svitlobot_Romodanova6_29` — username **публічного** Telegram-каналу без `@`, а `Ромоданова 6/29` — підпис адреси у віджеті. Важливо: між трьома значеннями має бути символ `|`.
 
-![Вибраний скрипт і заповнений Parameter](assets/step-6-parameter.jpeg)
+<img src="assets/step-6-parameter.jpeg" alt="Вибраний скрипт і заповнений Parameter" width="250">
 
 ### 7. Завершіть встановлення
 
 Закрийте налаштування й натисніть **Готово** на головному екрані. Віджет завантажить дані для вибраної черги та доступні повідомлення Telegram.
 
-![Готовий Kyiv Power Widget](assets/step-7-finished.jpg)
+<img src="assets/step-7-finished.jpg" alt="Готовий Kyiv Power Widget" width="250">
 
 **Готово!**
 
