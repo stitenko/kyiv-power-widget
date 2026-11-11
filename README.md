@@ -2,7 +2,7 @@
 
 **Kyiv Power Widget** — безкоштовний віджет для iPhone, який відображає графік відключень електроенергії в Києві та фактичний стан світла за повідомленнями публічних Telegram-каналів СвітлоБота.
 
-![Kyiv Power Widget на головному екрані iPhone](assets/step-7-finished.jpeg)
+![Kyiv Power Widget на головному екрані iPhone](assets/main-widget.jpg)
 
 ## Що показує віджет
 
