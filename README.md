@@ -77,7 +77,7 @@
 
 Закрийте налаштування й натисніть **Готово** на головному екрані. Віджет завантажить дані для вибраної черги та доступні повідомлення Telegram.
 
-![Готовий Kyiv Power Widget](assets/step-7-finished.jpeg)
+![Готовий Kyiv Power Widget](assets/step-7-finished.jpg)
 
 **Готово!**
 
